@@ -49,8 +49,8 @@ export default defineAppConfig({
         { title: "Pricing", link: "/pricing" },
         { title: "Help", link: "/help" },
       ],
-      megaMenu: true,
-      hideSearchBar: false,
+      megaMenu: false,
+      hideSearchBar: true,
       hideLanguageSelector: false,
       languageList: [
         {
@@ -90,7 +90,7 @@ export default defineAppConfig({
       hideEmailBox: false,
       emailAPI: "https://api.briofy.net/api/Email/ContactUs",
       copyRight: `<span>© 2017-2023
-                          <a href="https://trader4.net" class="hover:underline">Trader4</a>.
+                          <a href="https://trader4.net" class="hover:underline">Daric</a>.
                           All Rights Reserved.</span
                         >`,
       partOf: `<p>
