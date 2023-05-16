@@ -1,0 +1,1018 @@
+<template>
+  <div>
+    <section class="bg-white dark:bg-gray-900 mb-5">
+      <div
+        class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"
+      >
+        <div class="mr-auto place-self-center lg:col-span-7">
+          <h1
+            class="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white"
+          >
+            Payments tool for software companies
+          </h1>
+          <p
+            class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400"
+          >
+            From checkout to global sales tax compliance, companies around the
+            world use Flowbite to simplify their payment stack.
+          </p>
+          <a
+            href="#"
+            class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+          >
+            Get started
+            <svg
+              class="w-5 h-5 ml-2 -mr-1"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </a>
+          <a
+            href="#"
+            class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-gray-900 border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
+          >
+            Speak to Sales
+          </a>
+        </div>
+        <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
+          <img
+            src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
+            alt="mockup"
+          />
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900 mb-5">
+      <div
+        class="py-8 px-4 mx-auto max-w-screen-xl text-center sm:py-16 lg:px-6"
+      >
+        <h2
+          class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
+        >
+          The most trusted cryptocurrency platform
+        </h2>
+        <p class="text-gray-500 sm:text-xl dark:text-gray-400">
+          Here are a few reasons why you should choose Flowbite
+        </p>
+        <div
+          class="mt-8 lg:mt-12 space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0"
+        >
+          <div>
+            <svg
+              class="mx-auto mb-4 w-12 h-12 text-primary-600 dark:text-primary-500"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M6.625 2.655A9 9 0 0119 11a1 1 0 11-2 0 7 7 0 00-9.625-6.492 1 1 0 11-.75-1.853zM4.662 4.959A1 1 0 014.75 6.37 6.97 6.97 0 003 11a1 1 0 11-2 0 8.97 8.97 0 012.25-5.953 1 1 0 011.412-.088z"
+                clip-rule="evenodd"
+              ></path>
+              <path
+                fill-rule="evenodd"
+                d="M5 11a5 5 0 1110 0 1 1 0 11-2 0 3 3 0 10-6 0c0 1.677-.345 3.276-.968 4.729a1 1 0 11-1.838-.789A9.964 9.964 0 005 11zm8.921 2.012a1 1 0 01.831 1.145 19.86 19.86 0 01-.545 2.436 1 1 0 11-1.92-.558c.207-.713.371-1.445.49-2.192a1 1 0 011.144-.83z"
+                clip-rule="evenodd"
+              ></path>
+              <path
+                fill-rule="evenodd"
+                d="M10 10a1 1 0 011 1c0 2.236-.46 4.368-1.29 6.304a1 1 0 01-1.838-.789A13.952 13.952 0 009 11a1 1 0 011-1z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+            <h3 class="mb-2 text-xl font-bold dark:text-white">
+              Secure storage
+            </h3>
+            <p class="mb-4 text-gray-500 dark:text-gray-400">
+              We store the vast majority of the digital assets in secure offline
+              storage.
+            </p>
+            <a
+              href="#"
+              class="inline-flex items-center text-sm font-medium text-primary-600 hover:text-primary-700 dark:text-primary-500 dark:hover:text-primary-400"
+            >
+              Learn how to keep your funds safe
+              <svg
+                class="ml-1 w-5 h-5"
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                  clip-rule="evenodd"
+                ></path>
+              </svg>
+            </a>
+          </div>
+          <div>
+            <svg
+              class="mx-auto mb-4 w-12 h-12 text-primary-600 dark:text-primary-500"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"></path>
+              <path
+                fill-rule="evenodd"
+                d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+            <h3 class="mb-2 text-xl font-bold dark:text-white">Insurance</h3>
+            <p class="mb-4 text-gray-500 dark:text-gray-400">
+              Flowbite maintains crypto insurance and all USD cash balances are
+              covered.
+            </p>
+            <a
+              href="#"
+              class="inline-flex items-center text-sm font-medium text-primary-600 hover:text-primary-700 dark:text-primary-500 dark:hover:text-primary-400"
+            >
+              Learn how your crypto is covered
+              <svg
+                class="ml-1 w-5 h-5"
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                  clip-rule="evenodd"
+                ></path>
+              </svg>
+            </a>
+          </div>
+          <div>
+            <svg
+              class="mx-auto mb-4 w-12 h-12 text-primary-600 dark:text-primary-500"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+            <h3 class="mb-2 text-xl font-bold dark:text-white">
+              Best practices
+            </h3>
+            <p class="mb-4 text-gray-500 dark:text-gray-400">
+              Flowbite marketplace supports a variety of the most popular
+              digital currencies.
+            </p>
+            <a
+              href="#"
+              class="inline-flex items-center text-sm font-medium text-primary-600 hover:text-primary-700 dark:text-primary-500 dark:hover:text-primary-400"
+            >
+              How to implement best practices
+              <svg
+                class="ml-1 w-5 h-5"
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                  clip-rule="evenodd"
+                ></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900 mb-5">
+      <div
+        class="max-w-screen-xl px-4 pt-8 mx-auto text-center lg:pt-16 lg:px-12"
+      >
+        <h1
+          class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
+        >
+          We invest in the world’s potential
+        </h1>
+        <p
+          class="mb-8 font-light text-gray-500 md:text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400"
+        >
+          Here at Flowbite we focus on markets where technology, innovation, and
+          capital can unlock long-term value and drive economic growth.
+        </p>
+        <div
+          class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4"
+        >
+          <a
+            href="#"
+            class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+          >
+            Free trial for 30 days
+          </a>
+          <a
+            href="#"
+            class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-gray-900 border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
+          >
+            Pricing & FAQ
+            <svg
+              class="w-5 h-5 ml-2 -mr-1"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </a>
+        </div>
+        <img
+          class="mx-auto mb-5 lg:mb-8 border border-gray-200 rounded-lg shadow-xl dark:border-gray-600 z-1 dark:hidden"
+          src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/dashboard-mockup.svg"
+          alt="dashboard overview"
+        />
+        <img
+          class="mx-auto mb-5 lg:mb-8 border border-gray-200 rounded-lg shadow-xl dark:border-gray-600 hidden dark:block z-1"
+          src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/dashboard-mockup-dark.svg"
+          alt="dashboard overview dark"
+        />
+      </div>
+      <div
+        class="pt-48 lg:pb-16 pb-8 -mt-48 bg-gray-50 sm:pt-80 sm:-mt-80 dark:bg-gray-800 z-2"
+      >
+        <div
+          class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36"
+        >
+          <div
+            class="flex flex-wrap items-center justify-center mt-8 text-gray-500 sm:justify-between"
+          >
+            <a
+              href="#"
+              class="mb-5 mr-5 lg:mb-0 hover:text-gray-900 dark:hover:text-gray-400"
+            >
+              <svg
+                class="h-8"
+                viewBox="0 0 132 29"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M39.4555 5.17846C38.9976 3.47767 37.6566 2.13667 35.9558 1.67876C32.8486 0.828369 20.4198 0.828369 20.4198 0.828369C20.4198 0.828369 7.99099 0.828369 4.88379 1.64606C3.21571 2.10396 1.842 3.47767 1.38409 5.17846C0.566406 8.28567 0.566406 14.729 0.566406 14.729C0.566406 14.729 0.566406 21.2051 1.38409 24.2796C1.842 25.9804 3.183 27.3214 4.88379 27.7793C8.0237 28.6297 20.4198 28.6297 20.4198 28.6297C20.4198 28.6297 32.8486 28.6297 35.9558 27.812C37.6566 27.3541 38.9976 26.0131 39.4555 24.3123C40.2732 21.2051 40.2732 14.7618 40.2732 14.7618C40.2732 14.7618 40.3059 8.28567 39.4555 5.17846Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M16.4609 8.77612V20.6816L26.7966 14.7289L16.4609 8.77612Z"
+                  fill="white"
+                />
+                <path
+                  d="M64.272 25.0647C63.487 24.5413 62.931 23.7237 62.6039 22.5789C62.2768 21.4669 62.1133 19.9623 62.1133 18.1307V15.6122C62.1133 13.7479 62.3095 12.2434 62.6693 11.0986C63.0618 9.95386 63.6505 9.13618 64.4355 8.61286C65.2532 8.08954 66.2998 7.82788 67.6081 7.82788C68.8837 7.82788 69.9304 8.08954 70.7153 8.61286C71.5003 9.13618 72.0564 9.98657 72.4161 11.0986C72.7759 12.2107 72.9722 13.7152 72.9722 15.6122V18.1307C72.9722 19.995 72.8086 21.4669 72.4488 22.6116C72.0891 23.7237 71.533 24.5741 70.7481 25.0974C69.9631 25.6207 68.8837 25.8824 67.5427 25.8824C66.169 25.8496 65.057 25.588 64.272 25.0647ZM68.6875 22.3172C68.9164 21.7612 69.0146 20.8127 69.0146 19.5371V14.1077C69.0146 12.8648 68.9164 11.949 68.6875 11.3603C68.4585 10.7715 68.0988 10.5099 67.5427 10.5099C67.0194 10.5099 66.6269 10.8043 66.4307 11.3603C66.2017 11.949 66.1036 12.8648 66.1036 14.1077V19.5371C66.1036 20.8127 66.2017 21.7612 66.4307 22.3172C66.6269 22.8733 67.0194 23.1676 67.5754 23.1676C68.0987 23.1676 68.4585 22.906 68.6875 22.3172Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M124.649 18.1634V19.0465C124.649 20.1586 124.682 21.009 124.748 21.565C124.813 22.121 124.944 22.5462 125.173 22.7752C125.369 23.0368 125.696 23.1677 126.154 23.1677C126.743 23.1677 127.135 22.9387 127.364 22.4808C127.593 22.0229 127.691 21.2706 127.724 20.1913L131.093 20.3875C131.125 20.5511 131.125 20.7473 131.125 21.009C131.125 22.6117 130.7 23.8218 129.817 24.6068C128.934 25.3918 127.691 25.7843 126.089 25.7843C124.159 25.7843 122.818 25.1628 122.033 23.9527C121.248 22.7425 120.855 20.8782 120.855 18.327V15.2852C120.855 12.6686 121.248 10.7715 122.066 9.56136C122.883 8.35119 124.257 7.76245 126.187 7.76245C127.528 7.76245 128.574 8.02411 129.294 8.51472C130.013 9.00534 130.504 9.79032 130.798 10.8042C131.093 11.8509 131.223 13.29 131.223 15.1216V18.098H124.649V18.1634ZM125.14 10.837C124.944 11.0986 124.813 11.4911 124.748 12.0471C124.682 12.6032 124.649 13.4536 124.649 14.5983V15.8412H127.528V14.5983C127.528 13.4863 127.495 12.6359 127.43 12.0471C127.364 11.4584 127.201 11.0659 127.004 10.837C126.808 10.608 126.481 10.4772 126.089 10.4772C125.631 10.4445 125.336 10.5753 125.14 10.837Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M54.7216 17.8362L50.2734 1.71143H54.1656L55.7356 9.0052C56.1281 10.8041 56.4224 12.3414 56.6187 13.617H56.7168C56.8476 12.7011 57.142 11.1966 57.5999 9.0379L59.2353 1.71143H63.1274L58.6138 17.8362V25.5552H54.7543V17.8362H54.7216Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M85.6299 8.15479V25.5878H82.5554L82.2283 23.4619H82.1302C81.3125 25.0645 80.0369 25.8822 78.3688 25.8822C77.2241 25.8822 76.3737 25.4897 75.8177 24.7375C75.2617 23.9852 75 22.8077 75 21.1723V8.15479H78.9249V20.9434C78.9249 21.7284 79.023 22.2844 79.1865 22.6115C79.3501 22.9385 79.6444 23.1021 80.0369 23.1021C80.364 23.1021 80.6911 23.004 81.0181 22.775C81.3452 22.5788 81.5742 22.3171 81.705 21.99V8.15479H85.6299Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M105.747 8.15479V25.5878H102.673L102.346 23.4619H102.247C101.43 25.0645 100.154 25.8822 98.4861 25.8822C97.3413 25.8822 96.4909 25.4897 95.9349 24.7375C95.3788 23.9852 95.1172 22.8077 95.1172 21.1723V8.15479H99.0421V20.9434C99.0421 21.7284 99.1402 22.2844 99.3038 22.6115C99.4673 22.9385 99.7617 23.1021 100.154 23.1021C100.481 23.1021 100.808 23.004 101.135 22.775C101.462 22.5788 101.691 22.3171 101.822 21.99V8.15479H105.747Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M96.2907 4.88405H92.3986V25.5552H88.5718V4.88405H84.6797V1.71143H96.2907V4.88405Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M118.731 10.935C118.502 9.82293 118.11 9.03795 117.587 8.54734C117.063 8.05672 116.311 7.79506 115.395 7.79506C114.676 7.79506 113.989 7.99131 113.367 8.41651C112.746 8.809 112.255 9.36502 111.928 10.0192H111.896V0.828369H108.102V25.5552H111.34L111.732 23.9199H111.83C112.125 24.5086 112.582 24.9665 113.204 25.3263C113.825 25.6533 114.479 25.8496 115.232 25.8496C116.573 25.8496 117.521 25.2281 118.143 24.018C118.764 22.8078 119.091 20.8781 119.091 18.2942V15.5467C119.059 13.5516 118.96 12.0143 118.731 10.935ZM115.134 18.0325C115.134 19.3081 115.068 20.2893 114.97 21.0089C114.872 21.7285 114.676 22.2518 114.447 22.5461C114.185 22.8405 113.858 23.004 113.466 23.004C113.138 23.004 112.844 22.9386 112.582 22.7751C112.321 22.6116 112.092 22.3826 111.928 22.0882V12.2106C112.059 11.7527 112.288 11.3602 112.615 11.0331C112.942 10.7387 113.302 10.5752 113.662 10.5752C114.054 10.5752 114.381 10.7387 114.578 11.0331C114.807 11.3602 114.937 11.8835 115.036 12.6031C115.134 13.3553 115.166 14.402 115.166 15.743V18.0325H115.134Z"
+                  fill="currentColor"
+                />
+              </svg>
+            </a>
+            <a
+              href="#"
+              class="mb-5 mr-5 lg:mb-0 hover:text-gray-900 dark:hover:text-gray-400"
+            >
+              <svg
+                class="h-11"
+                viewBox="0 0 208 42"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M42.7714 20.729C42.7714 31.9343 33.6867 41.019 22.4814 41.019C11.2747 41.019 2.19141 31.9343 2.19141 20.729C2.19141 9.52228 11.2754 0.438965 22.4814 0.438965C33.6867 0.438965 42.7714 9.52297 42.7714 20.729Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M25.1775 21.3312H20.1389V15.9959H25.1775C25.5278 15.9959 25.8747 16.0649 26.1983 16.1989C26.522 16.333 26.8161 16.5295 27.0638 16.7772C27.3115 17.0249 27.508 17.319 27.6421 17.6427C27.7761 17.9663 27.8451 18.3132 27.8451 18.6635C27.8451 19.0139 27.7761 19.3608 27.6421 19.6844C27.508 20.0081 27.3115 20.3021 27.0638 20.5499C26.8161 20.7976 26.522 20.9941 26.1983 21.1281C25.8747 21.2622 25.5278 21.3312 25.1775 21.3312ZM25.1775 12.439H16.582V30.2234H20.1389V24.8881H25.1775C28.6151 24.8881 31.402 22.1012 31.402 18.6635C31.402 15.2258 28.6151 12.439 25.1775 12.439Z"
+                  fill="white"
+                />
+                <path
+                  d="M74.9361 17.4611C74.9361 16.1521 73.9305 15.3588 72.6239 15.3588H69.1216V19.5389H72.6248C73.9313 19.5389 74.9369 18.7457 74.9369 17.4611H74.9361ZM65.8047 28.2977V12.439H73.0901C76.4778 12.439 78.3213 14.7283 78.3213 17.4611C78.3213 20.1702 76.4542 22.4588 73.0901 22.4588H69.1216V28.2977H65.8055H65.8047ZM80.3406 28.2977V16.7362H83.3044V18.2543C84.122 17.2731 85.501 16.4563 86.9027 16.4563V19.3518C86.6912 19.3054 86.4349 19.2826 86.0851 19.2826C85.1039 19.2826 83.7949 19.8424 83.3044 20.5681V28.2977H80.3397H80.3406ZM96.8802 22.3652C96.8802 20.6136 95.8503 19.0955 93.9823 19.0955C92.1364 19.0955 91.1105 20.6136 91.1105 22.366C91.1105 24.1404 92.1364 25.6585 93.9823 25.6585C95.8503 25.6585 96.8794 24.1404 96.8794 22.3652H96.8802ZM88.0263 22.3652C88.0263 19.1663 90.2684 16.4563 93.9823 16.4563C97.7198 16.4563 99.962 19.1655 99.962 22.3652C99.962 25.5649 97.7198 28.2977 93.9823 28.2977C90.2684 28.2977 88.0263 25.5649 88.0263 22.3652ZM109.943 24.3739V20.3801C109.452 19.6316 108.378 19.0955 107.396 19.0955C105.693 19.0955 104.524 20.4265 104.524 22.366C104.524 24.3267 105.693 25.6585 107.396 25.6585C108.378 25.6585 109.452 25.1215 109.943 24.3731V24.3739ZM109.943 28.2977V26.5697C109.054 27.6899 107.841 28.2977 106.462 28.2977C103.637 28.2977 101.465 26.1499 101.465 22.3652C101.465 18.6993 103.59 16.4563 106.462 16.4563C107.793 16.4563 109.054 17.0177 109.943 18.1843V12.439H112.932V28.2977H109.943ZM123.497 28.2977V26.5925C122.727 27.4337 121.372 28.2977 119.526 28.2977C117.052 28.2977 115.884 26.9431 115.884 24.7473V16.7362H118.849V23.5798C118.849 25.1451 119.666 25.6585 120.927 25.6585C122.071 25.6585 122.983 25.028 123.497 24.3731V16.7362H126.463V28.2977H123.497ZM128.69 22.3652C128.69 18.9092 131.212 16.4563 134.67 16.4563C136.982 16.4563 138.383 17.4611 139.131 18.4886L137.191 20.3093C136.655 19.5153 135.838 19.0955 134.81 19.0955C133.011 19.0955 131.751 20.4037 131.751 22.366C131.751 24.3267 133.011 25.6585 134.81 25.6585C135.838 25.6585 136.655 25.1915 137.191 24.4203L139.131 26.2426C138.383 27.2702 136.982 28.2977 134.67 28.2977C131.212 28.2977 128.69 25.8456 128.69 22.3652ZM141.681 25.1915V19.329H139.813V16.7362H141.681V13.6528H144.648V16.7362H146.935V19.329H144.648V24.3975C144.648 25.1215 145.02 25.6585 145.675 25.6585C146.118 25.6585 146.541 25.495 146.702 25.3087L147.334 27.5728C146.891 27.9714 146.096 28.2977 144.857 28.2977C142.779 28.2977 141.681 27.2238 141.681 25.1915ZM165.935 28.2977V21.454H158.577V28.2977H155.263V12.439H158.577V18.5577H165.935V12.4398H169.275V28.2977H165.935ZM179.889 28.2977V26.5925C179.119 27.4337 177.764 28.2977 175.919 28.2977C173.443 28.2977 172.276 26.9431 172.276 24.7473V16.7362H175.241V23.5798C175.241 25.1451 176.058 25.6585 177.32 25.6585C178.464 25.6585 179.376 25.028 179.889 24.3731V16.7362H182.856V28.2977H179.889ZM193.417 28.2977V21.1986C193.417 19.6333 192.602 19.0963 191.339 19.0963C190.172 19.0963 189.285 19.7504 188.77 20.4045V28.2985H185.806V16.7362H188.77V18.1843C189.495 17.3439 190.896 16.4563 192.718 16.4563C195.217 16.4563 196.408 17.8573 196.408 20.0523V28.2977H193.418H193.417ZM199.942 25.1915V19.329H198.076V16.7362H199.943V13.6528H202.91V16.7362H205.198V19.329H202.91V24.3975C202.91 25.1215 203.282 25.6585 203.936 25.6585C204.38 25.6585 204.802 25.495 204.965 25.3087L205.595 27.5728C205.152 27.9714 204.356 28.2977 203.119 28.2977C201.04 28.2977 199.943 27.2238 199.943 25.1915"
+                  fill="currentColor"
+                />
+              </svg>
+            </a>
+            <a
+              href="#"
+              class="mb-5 mr-5 lg:mb-0 hover:text-gray-900 dark:hover:text-gray-400"
+            >
+              <svg
+                class="h-11"
+                viewBox="0 0 120 41"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M20.058 40.5994C31.0322 40.5994 39.9286 31.7031 39.9286 20.7289C39.9286 9.75473 31.0322 0.858398 20.058 0.858398C9.08385 0.858398 0.1875 9.75473 0.1875 20.7289C0.1875 31.7031 9.08385 40.5994 20.058 40.5994Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M33.3139 20.729C33.3139 19.1166 32.0101 17.8362 30.4211 17.8362C29.6388 17.8362 28.9272 18.1442 28.4056 18.6424C26.414 17.2196 23.687 16.2949 20.6518 16.1765L21.9796 9.96387L26.2951 10.8885C26.3429 11.9793 27.2437 12.8567 28.3584 12.8567C29.4965 12.8567 30.4211 11.9321 30.4211 10.7935C30.4211 9.65536 29.4965 8.73071 28.3584 8.73071C27.5522 8.73071 26.8406 9.20497 26.5086 9.89271L21.6954 8.87303C21.553 8.84917 21.4107 8.87303 21.3157 8.94419C21.1972 9.01535 21.1261 9.13381 21.1026 9.27613L19.6321 16.1999C16.5497 16.2949 13.7753 17.2196 11.7599 18.6662C11.2171 18.1478 10.495 17.8589 9.74439 17.86C8.13201 17.86 6.85156 19.1639 6.85156 20.7529C6.85156 21.9383 7.56272 22.9341 8.55897 23.3849C8.51123 23.6691 8.48781 23.9538 8.48781 24.2623C8.48781 28.7197 13.6807 32.348 20.083 32.348C26.4852 32.348 31.6781 28.7436 31.6781 24.2623C31.6781 23.9776 31.6543 23.6691 31.607 23.3849C32.6028 22.9341 33.3139 21.9144 33.3139 20.729ZM13.4434 22.7918C13.4434 21.6536 14.368 20.729 15.5066 20.729C16.6447 20.729 17.5694 21.6536 17.5694 22.7918C17.5694 23.9299 16.6447 24.855 15.5066 24.855C14.368 24.8784 13.4434 23.9299 13.4434 22.7918ZM24.9913 28.2694C23.5685 29.6921 20.8653 29.7872 20.083 29.7872C19.2768 29.7872 16.5736 29.6683 15.1742 28.2694C14.9612 28.0559 14.9612 27.7239 15.1742 27.5105C15.3877 27.2974 15.7196 27.2974 15.9331 27.5105C16.8343 28.4117 18.7314 28.7197 20.083 28.7197C21.4346 28.7197 23.355 28.4117 24.2324 27.5105C24.4459 27.2974 24.7778 27.2974 24.9913 27.5105C25.1809 27.7239 25.1809 28.0559 24.9913 28.2694ZM24.6116 24.8784C23.4735 24.8784 22.5488 23.9538 22.5488 22.8156C22.5488 21.6775 23.4735 20.7529 24.6116 20.7529C25.7502 20.7529 26.6748 21.6775 26.6748 22.8156C26.6748 23.9299 25.7502 24.8784 24.6116 24.8784Z"
+                  fill="white"
+                />
+                <path
+                  d="M108.412 16.6268C109.8 16.6268 110.926 15.5014 110.926 14.1132C110.926 12.725 109.8 11.5996 108.412 11.5996C107.024 11.5996 105.898 12.725 105.898 14.1132C105.898 15.5014 107.024 16.6268 108.412 16.6268Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M72.5114 24.8309C73.7446 24.8309 74.4557 23.9063 74.4084 23.0051C74.385 22.5308 74.3373 22.2223 74.29 21.9854C73.5311 18.7133 70.8756 16.2943 67.7216 16.2943C63.9753 16.2943 60.9401 19.6853 60.9401 23.8586C60.9401 28.0318 63.9753 31.4228 67.7216 31.4228C70.0694 31.4228 71.753 30.5693 72.9622 29.2177C73.5549 28.5538 73.4365 27.5341 72.7249 27.036C72.1322 26.6329 71.3972 26.7752 70.8517 27.2256C70.3302 27.6765 69.3344 28.5772 67.7216 28.5772C65.825 28.5772 64.2126 26.941 63.8568 24.7832H72.5114V24.8309ZM67.6981 19.1637C69.4051 19.1637 70.8756 20.4915 71.421 22.3173H63.9752C64.5207 20.468 65.9907 19.1637 67.6981 19.1637ZM61.0824 17.7883C61.0824 17.0771 60.5609 16.5078 59.897 16.3894C57.8338 16.0813 55.8895 16.8397 54.7752 18.2391V18.049C54.7752 17.1717 54.0636 16.6267 53.3525 16.6267C52.5697 16.6267 51.9297 17.2667 51.9297 18.049V29.6681C51.9297 30.427 52.4985 31.0908 53.2574 31.1381C54.0875 31.1854 54.7752 30.5454 54.7752 29.7154V23.7162C54.7752 21.0608 56.7668 18.8791 59.5173 19.1876H59.802C60.5131 19.1399 61.0824 18.5233 61.0824 17.7883ZM109.834 19.306C109.834 18.5233 109.194 17.8833 108.412 17.8833C107.629 17.8833 106.989 18.5233 106.989 19.306V29.7154C106.989 30.4981 107.629 31.1381 108.412 31.1381C109.194 31.1381 109.834 30.4981 109.834 29.7154V19.306ZM88.6829 11.4338C88.6829 10.651 88.0429 10.011 87.2602 10.011C86.4779 10.011 85.8379 10.651 85.8379 11.4338V17.7648C84.8655 16.7924 83.6562 16.3182 82.2096 16.3182C78.4632 16.3182 75.4281 19.7091 75.4281 23.8824C75.4281 28.0557 78.4632 31.4466 82.2096 31.4466C83.6562 31.4466 84.8893 30.9485 85.8613 29.9761C85.9797 30.6405 86.5729 31.1381 87.2602 31.1381C88.0429 31.1381 88.6829 30.4981 88.6829 29.7154V11.4338ZM82.2334 28.6245C80.0518 28.6245 78.2971 26.5145 78.2971 23.8824C78.2971 21.2742 80.0518 19.1399 82.2334 19.1399C84.4151 19.1399 86.1698 21.2504 86.1698 23.8824C86.1698 26.5145 84.3912 28.6245 82.2334 28.6245ZM103.527 11.4338C103.527 10.651 102.887 10.011 102.104 10.011C101.322 10.011 100.681 10.651 100.681 11.4338V17.7648C99.7093 16.7924 98.5 16.3182 97.0534 16.3182C93.307 16.3182 90.2719 19.7091 90.2719 23.8824C90.2719 28.0557 93.307 31.4466 97.0534 31.4466C98.5 31.4466 99.7327 30.9485 100.705 29.9761C100.824 30.6405 101.416 31.1381 102.104 31.1381C102.887 31.1381 103.527 30.4981 103.527 29.7154V11.4338ZM97.0534 28.6245C94.8717 28.6245 93.1174 26.5145 93.1174 23.8824C93.1174 21.2742 94.8717 19.1399 97.0534 19.1399C99.235 19.1399 100.99 21.2504 100.99 23.8824C100.99 26.5145 99.235 28.6245 97.0534 28.6245ZM117.042 29.7392V19.1637H118.299C118.963 19.1637 119.556 18.6656 119.603 17.9779C119.651 17.2428 119.058 16.6267 118.347 16.6267H117.042V14.6347C117.042 13.8758 116.474 13.2119 115.715 13.1646C114.885 13.1173 114.197 13.7573 114.197 14.5874V16.6501H113.011C112.348 16.6501 111.755 17.1483 111.708 17.836C111.66 18.571 112.253 19.1876 112.964 19.1876H114.173V29.7631C114.173 30.5454 114.814 31.1854 115.596 31.1854C116.426 31.1381 117.042 30.5216 117.042 29.7392Z"
+                  fill="currentColor"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900 mb-5">
+      <div
+        class="py-8 px-4 mx-auto max-w-screen-xl text-center sm:py-16 lg:px-6"
+      >
+        <h2
+          class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
+        >
+          Designed for business teams like yours
+        </h2>
+        <p class="text-gray-500 sm:text-xl dark:text-gray-400 lg:px-48">
+          Here we focus on markets where technology, innovation, and capital can
+          unlock long-term value and drive economic growth.
+        </p>
+        <div
+          class="mt-8 lg:mt-16 mb-8 space-y-8 md:grid md:grid-cols-2 md:gap-12 md:space-y-0"
+        >
+          <div>
+            <div
+              class="inline-flex justify-center items-center mb-6 w-24 h-24 rounded-lg bg-primary-100 dark:bg-primary-900"
+            >
+              <svg
+                class="mx-auto w-16 h-16 text-primary-600 dark:text-primary-500"
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M2 10a8 8 0 018-8v8h8a8 8 0 11-16 0z"></path>
+                <path d="M12 2.252A8.014 8.014 0 0117.748 8H12V2.252z"></path>
+              </svg>
+            </div>
+            <h3 class="mb-4 text-2xl font-bold dark:text-white">
+              Just the right balance for growth
+            </h3>
+            <p class="mb-4 text-gray-500 dark:text-gray-400">
+              Enterprise tools cost more, are difficult to use, and take longer
+              to implement. According to G2, Flowbite is the easiest-to-use
+              tool, with the fastest time to ROI.
+            </p>
+          </div>
+          <div>
+            <div
+              class="inline-flex justify-center items-center mb-6 w-24 h-24 bg-purple-100 rounded-lg dark:bg-purple-900"
+            >
+              <svg
+                class="mx-auto w-16 h-16 text-purple-600 dark:text-purple-500"
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M9.504 1.132a1 1 0 01.992 0l1.75 1a1 1 0 11-.992 1.736L10 3.152l-1.254.716a1 1 0 11-.992-1.736l1.75-1zM5.618 4.504a1 1 0 01-.372 1.364L5.016 6l.23.132a1 1 0 11-.992 1.736L4 7.723V8a1 1 0 01-2 0V6a.996.996 0 01.52-.878l1.734-.99a1 1 0 011.364.372zm8.764 0a1 1 0 011.364-.372l1.733.99A1.002 1.002 0 0118 6v2a1 1 0 11-2 0v-.277l-.254.145a1 1 0 11-.992-1.736l.23-.132-.23-.132a1 1 0 01-.372-1.364zm-7 4a1 1 0 011.364-.372L10 8.848l1.254-.716a1 1 0 11.992 1.736L11 10.58V12a1 1 0 11-2 0v-1.42l-1.246-.712a1 1 0 01-.372-1.364zM3 11a1 1 0 011 1v1.42l1.246.712a1 1 0 11-.992 1.736l-1.75-1A1 1 0 012 14v-2a1 1 0 011-1zm14 0a1 1 0 011 1v2a1 1 0 01-.504.868l-1.75 1a1 1 0 11-.992-1.736L16 13.42V12a1 1 0 011-1zm-9.618 5.504a1 1 0 011.364-.372l.254.145V16a1 1 0 112 0v.277l.254-.145a1 1 0 11.992 1.736l-1.735.992a.995.995 0 01-1.022 0l-1.735-.992a1 1 0 01-.372-1.364z"
+                  clip-rule="evenodd"
+                ></path>
+              </svg>
+            </div>
+            <h3 class="mb-4 text-2xl font-bold dark:text-white">
+              Just the right balance for growth
+            </h3>
+            <p class="mb-4 text-gray-500 dark:text-gray-400">
+              Enterprise tools cost more, are difficult to use, and take longer
+              to implement. According to G2, Flowbite is the easiest-to-use
+              tool, with the fastest time to ROI.
+            </p>
+          </div>
+        </div>
+        <p class="text-center">
+          <a
+            href="#"
+            class="inline-flex items-center font-medium text-primary-600 hover:text-primary-700 dark:text-primary-500 dark:hover:text-primary-400"
+          >
+            Learn what makes Flowbite different
+            <svg
+              class="ml-1 w-5 h-5"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                clip-rule="evenodd"
+              ></path></svg
+          ></a>
+        </p>
+      </div>
+    </section>
+
+    <aside
+      aria-label="Related articles"
+      class="py-8 mb-5 lg:py-24 bg-white dark:bg-gray-900"
+    >
+      <div class="px-4 mx-auto max-w-screen-xl">
+        <h2 class="mb-8 text-2xl font-bold text-gray-900 dark:text-white">
+          Related articles
+        </h2>
+        <div class="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
+          <article class="max-w-xs">
+            <a href="#">
+              <img
+                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-1.png"
+                class="mb-5 rounded-lg"
+                alt="Image 1"
+              />
+            </a>
+            <h2
+              class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white"
+            >
+              <a href="#">Our first office</a>
+            </h2>
+            <p class="mb-4 font-light text-gray-500 dark:text-gray-400">
+              Over the past year, Volosoft has undergone many changes! After
+              months of preparation.
+            </p>
+            <a
+              href="#"
+              class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline"
+            >
+              Read in 2 minutes
+            </a>
+          </article>
+          <article class="max-w-xs">
+            <a href="#">
+              <img
+                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-2.png"
+                class="mb-5 rounded-lg"
+                alt="Image 2"
+              />
+            </a>
+            <h2
+              class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white"
+            >
+              <a href="#">Enterprise design tips</a>
+            </h2>
+            <p class="mb-4 font-light text-gray-500 dark:text-gray-400">
+              Over the past year, Volosoft has undergone many changes! After
+              months of preparation.
+            </p>
+            <a
+              href="#"
+              class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline"
+            >
+              Read in 12 minutes
+            </a>
+          </article>
+          <article class="max-w-xs">
+            <a href="#">
+              <img
+                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-3.png"
+                class="mb-5 rounded-lg"
+                alt="Image 3"
+              />
+            </a>
+            <h2
+              class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white"
+            >
+              <a href="#">We partnered with Google</a>
+            </h2>
+            <p class="mb-4 font-light text-gray-500 dark:text-gray-400">
+              Over the past year, Volosoft has undergone many changes! After
+              months of preparation.
+            </p>
+            <a
+              href="#"
+              class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline"
+            >
+              Read in 8 minutes
+            </a>
+          </article>
+          <article class="max-w-xs">
+            <a href="#">
+              <img
+                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-4.png"
+                class="mb-5 rounded-lg"
+                alt="Image 4"
+              />
+            </a>
+            <h2
+              class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white"
+            >
+              <a href="#">Our first project with React</a>
+            </h2>
+            <p class="mb-4 font-light text-gray-500 dark:text-gray-400">
+              Over the past year, Volosoft has undergone many changes! After
+              months of preparation.
+            </p>
+            <a
+              href="#"
+              class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline"
+            >
+              Read in 4 minutes
+            </a>
+          </article>
+        </div>
+      </div>
+    </aside>
+
+    <section class="bg-white dark:bg-gray-900 mb-5">
+      <div
+        class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-6"
+      >
+        <figure class="max-w-screen-md mx-auto">
+          <svg
+            class="h-12 mx-auto mb-3 text-gray-400 dark:text-gray-600"
+            viewBox="0 0 24 27"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z"
+              fill="currentColor"
+            />
+          </svg>
+          <blockquote>
+            <p class="text-2xl font-medium text-gray-900 dark:text-white">
+              "Flowbite is just awesome. It contains tons of predesigned
+              components and pages starting from login screen to complex
+              dashboard. Perfect choice for your next SaaS application."
+            </p>
+          </blockquote>
+          <figcaption class="flex items-center justify-center mt-6 space-x-3">
+            <img
+              class="w-6 h-6 rounded-full"
+              src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
+              alt="profile picture"
+            />
+            <div
+              class="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700"
+            >
+              <div class="pr-3 font-medium text-gray-900 dark:text-white">
+                Micheal Gough
+              </div>
+              <div
+                class="pl-3 text-sm font-light text-gray-500 dark:text-gray-400"
+              >
+                CEO at Google
+              </div>
+            </div>
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900 mb-5">
+      <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+        <h2
+          class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
+        >
+          We didn't reinvent the wheel
+        </h2>
+        <p class="mb-3 font-light text-gray-500 dark:text-gray-400 sm:text-xl">
+          Track work across the enterprise through an open, collaborative
+          platform. Link issues across Jira and ingest data from other software
+          development tools, so your IT support and operations teams have richer
+          contextual information to rapidly respond to requests, incidents, and
+          changes.
+        </p>
+        <p class="mb-8 font-light text-gray-500 dark:text-gray-400 sm:text-xl">
+          Deliver great service experiences fast - without the complexity of
+          traditional ITSM solutions.Accelerate critical development work,
+          eliminate toil, and deploy changes with ease.
+        </p>
+        <div class="grid gap-8 lg:grid-cols-2">
+          <a
+            href="#"
+            class="inline-flex justify-center items-center p-5 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white"
+          >
+            <svg
+              class="mr-3 w-5 h-5"
+              viewBox="0 0 32 32"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M24.5199 12.9424C24.4458 13.4528 24.1092 14.1463 23.723 14.7492C23.2358 15.51 22.4627 16.0428 21.5779 16.2278L17.6802 17.0429C17.0537 17.1739 16.4857 17.5017 16.0592 17.9785L13.5035 20.8352C13.0232 21.3721 12.6875 21.244 12.6875 20.5239C12.6817 20.5506 11.4191 23.8067 14.7651 25.7366C16.0507 26.4782 17.9013 26.2117 19.1869 25.4702L25.9988 21.5411C28.5463 20.0717 30.345 17.5859 30.9428 14.7084C30.9665 14.5946 30.9848 14.4803 31.0045 14.3662L24.5199 12.9424Z"
+                fill="url(#paint0_linear_4151_62980)"
+              />
+              <path
+                d="M22.7528 9.01774C24.0384 9.75928 24.5637 10.8633 24.5637 12.3464C24.5637 12.5477 24.5479 12.7466 24.5194 12.9425L27.2641 14.1215L31.004 14.3663C31.4829 11.5948 30.5444 8.74202 28.862 6.47445C27.5959 4.768 25.9667 3.28713 24.0081 2.15738C22.417 1.23966 20.7636 0.635005 19.1025 0.303223L17.2361 2.72023L16.6465 5.49559L22.7528 9.01774Z"
+                fill="url(#paint1_linear_4151_62980)"
+              />
+              <path
+                d="M0.783353 11.0516C0.782654 11.0537 0.784588 11.0544 0.785316 11.0522C0.929339 10.6202 1.10993 10.1383 1.33539 9.62344C2.5131 6.93406 4.78262 5.14038 7.57467 4.22583C10.3667 3.31131 13.4153 3.63188 15.9599 5.09963L16.6463 5.49553L19.1023 0.303168C11.2907 -1.25701 3.30703 3.33229 0.793284 11.0215C0.792083 11.0251 0.787713 11.038 0.783353 11.0516Z"
+                fill="url(#paint2_linear_4151_62980)"
+              />
+              <path
+                d="M18.9201 25.4702C17.6345 26.2117 16.0506 26.2117 14.765 25.4702C14.5904 25.3695 14.4259 25.2563 14.2703 25.1338L12.0093 26.6883L10.0605 29.8374C12.2236 31.6374 15.0324 32.2161 17.8392 31.8943C19.9515 31.6521 22.0498 30.9829 24.0084 29.8532C25.5995 28.9355 26.9503 27.8073 28.0685 26.5359L26.9065 23.7126L25.0265 21.948L18.9201 25.4702Z"
+                fill="url(#paint3_linear_4151_62980)"
+              />
+              <path
+                d="M14.2694 25.1339C13.2789 24.3537 12.6864 23.157 12.6864 21.8752V21.7474V11.0722C12.6864 10.4685 12.8643 10.3659 13.3876 10.6677C12.5816 10.2028 10.7195 8.60676 8.42044 9.9329C7.13484 10.6744 6.07617 12.3113 6.07617 13.7944V21.6526C6.07617 24.5915 7.59833 27.657 9.79375 29.613C9.88059 29.6904 9.97049 29.7633 10.0596 29.8375L14.2694 25.1339Z"
+                fill="url(#paint4_linear_4151_62980)"
+              />
+              <path
+                d="M27.9097 5.31206C27.9081 5.31036 27.9066 5.31173 27.9081 5.31343C28.2106 5.65404 28.538 6.05126 28.8716 6.50375C30.614 8.8674 31.2651 11.8611 30.6618 14.734C30.0586 17.607 28.2564 20.0843 25.7118 21.5521L25.0254 21.948L28.0674 26.5359C33.3256 20.5574 33.3392 11.3552 27.9308 5.3357C27.9282 5.33282 27.9193 5.32262 27.9097 5.31206Z"
+                fill="url(#paint5_linear_4151_62980)"
+              />
+              <path
+                d="M6.34355 13.7944C6.34354 12.3113 7.13551 10.9408 8.42113 10.1993C8.59564 10.0986 8.77601 10.0129 8.96002 9.93951L8.74304 7.20603L7.21861 4.07861C4.57671 5.05005 2.4397 7.05766 1.31528 9.64708C0.469097 11.5957 9.792e-06 13.7458 0 16.0052C0 17.8407 0.302549 19.5735 0.845532 21.1767L3.87391 21.583L6.34355 20.8387V13.7944Z"
+                fill="url(#paint6_linear_4151_62980)"
+              />
+              <path
+                d="M8.96016 9.93951C10.1317 9.47264 11.4653 9.5584 12.5764 10.1993L12.6872 10.2632L21.5826 15.3941C22.2066 15.754 22.1499 16.1082 21.4446 16.2557L21.9578 16.1484C22.633 16.0072 23.2499 15.6621 23.7217 15.1592C24.5328 14.2946 24.8306 13.2515 24.8306 12.3463C24.8306 10.8632 24.0386 9.49274 22.753 8.7512L15.9411 4.82209C13.3936 3.35267 10.3395 3.03934 7.54622 3.96083C7.43572 3.99727 7.32756 4.0386 7.21875 4.07861L8.96016 9.93951Z"
+                fill="url(#paint7_linear_4151_62980)"
+              />
+              <path
+                d="M19.3224 31.6521C19.3246 31.6516 19.3242 31.6496 19.3219 31.6501C18.8755 31.7414 18.3674 31.8262 17.8084 31.8885C14.8882 32.2142 11.9677 31.2807 9.77888 29.3223C7.59011 27.3638 6.34372 24.5659 6.34372 21.6304L6.34371 20.8386L0.845703 21.1766C3.39905 28.7153 11.3691 33.3282 19.2913 31.6585C19.2951 31.6577 19.3084 31.6551 19.3224 31.6521Z"
+                fill="url(#paint8_linear_4151_62980)"
+              />
+              <defs>
+                <linearGradient
+                  id="paint0_linear_4151_62980"
+                  x1="20.0604"
+                  y1="23.7696"
+                  x2="23.2079"
+                  y2="12.8065"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#1724C9" />
+                  <stop offset="1" stop-color="#1C64F2" />
+                </linearGradient>
+                <linearGradient
+                  id="paint1_linear_4151_62980"
+                  x1="27.3093"
+                  y1="10.4001"
+                  x2="19.0297"
+                  y2="2.14962"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#1C64F2" />
+                  <stop offset="1" stop-color="#0092FF" />
+                </linearGradient>
+                <linearGradient
+                  id="paint2_linear_4151_62980"
+                  x1="16.1642"
+                  y1="5.0209"
+                  x2="3.67407"
+                  y2="5.81015"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#0092FF" />
+                  <stop offset="1" stop-color="#45B2FF" />
+                </linearGradient>
+                <linearGradient
+                  id="paint3_linear_4151_62980"
+                  x1="15.32"
+                  y1="28.6624"
+                  x2="26.5369"
+                  y2="25.6356"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#1C64F2" />
+                  <stop offset="1" stop-color="#0092FF" />
+                </linearGradient>
+                <linearGradient
+                  id="paint4_linear_4151_62980"
+                  x1="7.26808"
+                  y1="15.6825"
+                  x2="15.2317"
+                  y2="23.9345"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#1724C9" />
+                  <stop offset="1" stop-color="#1C64F2" />
+                </linearGradient>
+                <linearGradient
+                  id="paint5_linear_4151_62980"
+                  x1="25.4497"
+                  y1="21.6353"
+                  x2="31.0061"
+                  y2="10.4342"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#0092FF" />
+                  <stop offset="1" stop-color="#45B2FF" />
+                </linearGradient>
+                <linearGradient
+                  id="paint6_linear_4151_62980"
+                  x1="5.36387"
+                  y1="9.13067"
+                  x2="2.39054"
+                  y2="20.3063"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#1C64F2" />
+                  <stop offset="1" stop-color="#0092FF" />
+                </linearGradient>
+                <linearGradient
+                  id="paint7_linear_4151_62980"
+                  x1="20.5432"
+                  y1="8.59912"
+                  x2="9.6778"
+                  y2="11.3044"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#1724C9" />
+                  <stop offset="1" stop-color="#1C64F2" />
+                </linearGradient>
+                <linearGradient
+                  id="paint8_linear_4151_62980"
+                  x1="6.40691"
+                  y1="21.3563"
+                  x2="13.3327"
+                  y2="31.7743"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#0092FF" />
+                  <stop offset="1" stop-color="#45B2FF" />
+                </linearGradient>
+              </defs>
+            </svg>
+            <span class="w-full"
+              >Explore Flowbite and take your marketplace to the next
+              level.</span
+            >
+            <svg
+              class="ml-3 w-6 h-6"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </a>
+          <a
+            href="#"
+            class="inline-flex justify-center items-center p-5 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white"
+          >
+            <svg
+              class="mr-3 w-5 h-5"
+              viewBox="0 0 22 31"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g clip-path="url(#clip0_4151_63004)">
+                <path
+                  d="M5.50085 30.1242C8.53625 30.1242 10.9998 27.8749 10.9998 25.1035V20.0828H5.50085C2.46546 20.0828 0.00195312 22.332 0.00195312 25.1035C0.00195312 27.8749 2.46546 30.1242 5.50085 30.1242Z"
+                  fill="#0ACF83"
+                />
+                <path
+                  d="M0.00195312 15.062C0.00195312 12.2905 2.46546 10.0413 5.50085 10.0413H10.9998V20.0827H5.50085C2.46546 20.0827 0.00195312 17.8334 0.00195312 15.062Z"
+                  fill="#A259FF"
+                />
+                <path
+                  d="M0.00195312 5.02048C0.00195312 2.24904 2.46546 -0.000244141 5.50085 -0.000244141H10.9998V10.0412H5.50085C2.46546 10.0412 0.00195312 7.79193 0.00195312 5.02048Z"
+                  fill="#F24E1E"
+                />
+                <path
+                  d="M11 -0.000244141H16.4989C19.5343 -0.000244141 21.9978 2.24904 21.9978 5.02048C21.9978 7.79193 19.5343 10.0412 16.4989 10.0412H11V-0.000244141Z"
+                  fill="#FF7262"
+                />
+                <path
+                  d="M21.9978 15.062C21.9978 17.8334 19.5343 20.0827 16.4989 20.0827C13.4635 20.0827 11 17.8334 11 15.062C11 12.2905 13.4635 10.0413 16.4989 10.0413C19.5343 10.0413 21.9978 12.2905 21.9978 15.062Z"
+                  fill="#1ABCFE"
+                />
+              </g>
+              <defs>
+                <clipPath id="clip0_4151_63004">
+                  <rect
+                    width="22"
+                    height="30.1244"
+                    fill="white"
+                    transform="translate(0 -0.000244141)"
+                  />
+                </clipPath>
+              </defs>
+            </svg>
+            <span class="w-full">Get started with our Figma Design System</span>
+            <svg
+              class="ml-3 w-6 h-6"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </a>
+          <a
+            href="#"
+            class="inline-flex justify-center items-center p-5 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white"
+          >
+            <svg
+              class="mr-3 w-5 h-5"
+              viewBox="0 0 26 31"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g clip-path="url(#clip0_4151_62985)">
+                <path
+                  d="M25.7689 0.901322L15.1763 3.49437C15.0758 3.51776 14.9717 3.52086 14.87 3.50352C14.7683 3.48617 14.6711 3.44871 14.5841 3.39335L9.57667 0.121964C9.48513 0.0624589 9.38179 0.0234753 9.27373 0.00769593C9.16568 -0.00808342 9.05549 -0.000283916 8.95074 0.0305577L0.284074 2.58031C0.204603 2.59938 0.133665 2.64415 0.0822909 2.70766C0.030917 2.77117 0.001987 2.84986 0 2.9315L0 8.11761L8.95074 5.48607C9.05549 5.45522 9.16568 5.44743 9.27373 5.4632C9.38179 5.47898 9.48513 5.51797 9.57667 5.57747L14.5841 8.84404C14.6701 8.90151 14.7674 8.94022 14.8694 8.95762C14.9715 8.97503 15.076 8.97075 15.1763 8.94507L26 6.2991V1.07451C25.9987 1.02559 25.9784 0.979095 25.9433 0.944943C25.9082 0.91079 25.8612 0.891685 25.8122 0.891701L25.7689 0.901322Z"
+                  fill="#FF7F66"
+                />
+                <path
+                  d="M19.377 13.3953L15.1737 14.4056C15.0733 14.4301 14.969 14.4338 14.8671 14.4164C14.7652 14.399 14.668 14.361 14.5815 14.3046L9.57406 11.0332C9.5541 11.0191 9.53145 11.0092 9.50752 11.0042C9.48359 10.9993 9.45888 10.9992 9.43495 11.0042C9.41101 11.0092 9.38835 11.019 9.36838 11.0331C9.34841 11.0472 9.33156 11.0652 9.31887 11.0861C9.29667 11.1132 9.28474 11.1473 9.28517 11.1823V16.1038C9.28501 16.164 9.2999 16.2232 9.32849 16.2762C9.35708 16.3291 9.39846 16.374 9.44887 16.4069L14.5815 19.7745C14.6684 19.8301 14.7658 19.8673 14.8676 19.8839C14.9695 19.9004 15.0736 19.8959 15.1737 19.8707L19.6178 18.8075C20.336 18.6343 20.9753 18.2254 21.4335 17.6463C21.8918 17.0672 22.1425 16.3514 22.1455 15.6131V15.5121C22.1367 14.9234 21.8944 14.3624 21.472 13.952C21.0495 13.5416 20.4814 13.3154 19.8922 13.3232C19.7183 13.3283 19.5456 13.3525 19.377 13.3953Z"
+                  fill="#FF7F66"
+                />
+                <path
+                  d="M19.377 24.3062L15.1737 25.3165C15.0732 25.3399 14.9691 25.343 14.8674 25.3256C14.7657 25.3083 14.6685 25.2708 14.5815 25.2154L9.57405 21.9441C9.55416 21.9304 9.53176 21.9208 9.50814 21.9158C9.48452 21.9108 9.46015 21.9106 9.43643 21.915C9.41271 21.9195 9.39011 21.9286 9.36993 21.9419C9.34975 21.9551 9.3324 21.9722 9.31886 21.9922C9.29698 22.0213 9.28516 22.0568 9.28516 22.0932V27.0147C9.285 27.0748 9.29989 27.1341 9.32848 27.187C9.35707 27.24 9.39845 27.2849 9.44886 27.3178L14.5815 30.6854C14.6675 30.7429 14.7647 30.7816 14.8668 30.799C14.9688 30.8164 15.0734 30.8121 15.1737 30.7864L19.6178 29.7184C20.3368 29.5467 20.9771 29.1383 21.4356 28.5588C21.8941 27.9794 22.1442 27.2627 22.1455 26.524V26.423C22.1367 25.8343 21.8944 25.2732 21.4719 24.8628C21.0495 24.4525 20.4813 24.2263 19.8922 24.234C19.7181 24.2368 19.5451 24.261 19.377 24.3062Z"
+                  fill="#FF7F66"
+                />
+                <path
+                  opacity="0.32"
+                  d="M14.8613 19.8659V14.4344C14.9661 14.4561 15.0743 14.4561 15.1791 14.4344L16.9895 13.9533L18.0487 19.149L15.1598 19.8514C15.0625 19.8774 14.9607 19.8823 14.8613 19.8659ZM19.108 24.3544L15.1791 25.3166C15.0743 25.3382 14.9661 25.3382 14.8613 25.3166V30.7913C14.9661 30.813 15.0743 30.813 15.1791 30.7913L20.1673 29.5694L19.108 24.3544ZM14.8613 8.95966C14.9661 8.98131 15.0743 8.98131 15.1791 8.95966L15.935 8.77685L14.8613 3.50415V8.95966Z"
+                  fill="#111928"
+                />
+                <g opacity="0.16">
+                  <path
+                    opacity="0.16"
+                    d="M9.28516 5.4665C9.38726 5.48597 9.48508 5.52344 9.57404 5.57715L14.5815 8.84853C14.6641 8.90343 14.7578 8.93956 14.8559 8.95437V3.49886C14.7578 3.48404 14.6641 3.44792 14.5815 3.39302L9.57404 0.121636C9.48508 0.067925 9.38726 0.0304579 9.28516 0.0109863V5.4665Z"
+                    fill="#111928"
+                  />
+                  <path
+                    opacity="0.16"
+                    d="M14.8559 25.3269C14.7584 25.3073 14.6653 25.2698 14.5815 25.2163L9.57405 21.9449C9.53253 21.9175 9.48184 21.9077 9.43309 21.9176C9.38434 21.9275 9.34153 21.9564 9.31405 21.9978C9.29511 22.0263 9.28506 22.0598 9.28516 22.094V27.0155C9.285 27.0757 9.29989 27.1349 9.32848 27.1878C9.35707 27.2408 9.39845 27.2857 9.44886 27.3186L14.5815 30.6862C14.6659 30.7375 14.7589 30.7733 14.8559 30.792V25.3269Z"
+                    fill="#111928"
+                  />
+                  <path
+                    opacity="0.16"
+                    d="M9.57405 11.0315C9.53253 11.0042 9.48184 10.9943 9.43309 11.0043C9.38434 11.0142 9.34153 11.043 9.31405 11.0845C9.29511 11.113 9.28506 11.1465 9.28516 11.1807V16.1022C9.285 16.1623 9.29989 16.2216 9.32848 16.2745C9.35707 16.3274 9.39845 16.3724 9.44886 16.4053L14.5815 19.7729C14.6652 19.8257 14.7584 19.8616 14.8559 19.8787V14.4328C14.7575 14.4162 14.6638 14.3785 14.5815 14.3222L9.57405 11.0315Z"
+                    fill="#111928"
+                  />
+                </g>
+              </g>
+              <defs>
+                <clipPath id="clip0_4151_62985">
+                  <rect
+                    width="26"
+                    height="30.8097"
+                    fill="white"
+                    transform="translate(0 -0.000244141)"
+                  />
+                </clipPath>
+              </defs>
+            </svg>
+            <span class="w-full"
+              >Learn how to market your business on Themesberg.</span
+            >
+            <svg
+              class="ml-3 w-6 h-6"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </a>
+          <a
+            href="#"
+            class="inline-flex justify-center items-center p-5 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white"
+          >
+            <svg
+              class="mr-3 w-5 h-5"
+              viewBox="0 0 33 21"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M16.5 0.224121C12.1 0.224121 9.34996 2.42416 8.25 6.82412C9.9 4.62408 11.825 3.79908 14.025 4.34912C15.2802 4.66288 16.1773 5.5736 17.1704 6.58152C18.7882 8.22366 20.6604 10.1241 24.75 10.1241C29.15 10.1241 31.9 7.92408 33 3.52412C31.35 5.72416 29.425 6.54916 27.225 5.99912C25.9698 5.68536 25.0727 4.77464 24.0796 3.76672C22.4618 2.12459 20.5896 0.224121 16.5 0.224121ZM8.25 10.1241C3.85004 10.1241 1.09996 12.3242 0 16.7241C1.65 14.5241 3.57496 13.6991 5.775 14.2491C7.03016 14.5629 7.92735 15.4736 8.92044 16.4815C10.5382 18.1237 12.4104 20.0241 16.5 20.0241C20.9 20.0241 23.65 17.8241 24.75 13.4241C23.1 15.6242 21.175 16.4492 18.975 15.8991C17.7198 15.5854 16.8227 14.6746 15.8296 13.6667C14.2118 12.0246 12.3396 10.1241 8.25 10.1241Z"
+                fill="url(#paint0_linear_4151_63014)"
+              />
+              <defs>
+                <linearGradient
+                  id="paint0_linear_4151_63014"
+                  x1="-0.91663"
+                  y1="6.56015"
+                  x2="27.5845"
+                  y2="22.9931"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop stop-color="#2298BD" />
+                  <stop offset="1" stop-color="#0ED7B5" />
+                </linearGradient>
+              </defs>
+            </svg>
+            <span class="w-full"
+              >Start coding with the most popular utility-first framework</span
+            >
+            <svg
+              class="ml-3 w-6 h-6"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              ></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-white dark:bg-gray-900">
+      <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+        <div class="max-w-screen-md">
+          <h2
+            class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
+          >
+            Let's find more that brings us together.
+          </h2>
+          <p
+            class="mb-8 font-light text-gray-500 sm:text-xl dark:text-gray-400"
+          >
+            Flowbite helps you connect with friends, family and communities of
+            people who share your interests. Connecting with your friends and
+            family as well as discovering new ones is easy with features like
+            Groups, Watch and Marketplace.
+          </p>
+          <div
+            class="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4"
+          >
+            <a
+              href="#"
+              class="inline-flex items-center justify-center px-4 py-2.5 text-base font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+            >
+              Get started
+            </a>
+            <a
+              href="#"
+              class="inline-flex items-center justify-center px-4 py-2.5 text-base font-medium text-center text-gray-900 border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+            >
+              <svg
+                class="mr-2 -ml-1 w-5 h-5"
+                fill="currentColor"
+                viewBox="0 0 20 20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"
+                ></path>
+              </svg>
+              View more
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</template>
