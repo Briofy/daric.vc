@@ -18,6 +18,8 @@ RUN npm cache clean --force
 # Add src project
 ADD . .
 
+
+
 # Build project
 RUN npm run build
 
