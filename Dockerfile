@@ -1,4 +1,4 @@
-FROM node:18.6.0-alpine AS build
+FROM node:20.2.0-alpine3.17 AS build
 
 # For handling Kernel signals properly
 RUN apk add --no-cache git
