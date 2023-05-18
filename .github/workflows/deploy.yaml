@@ -11,7 +11,7 @@ env:
   RELEASE_NAME: briofy-daric
   RELEASE_NAMESPACE: briofy-daric
   RELEASE_DOMAIN: daric.vc
-  NEXT_RELEASE_DOMAIN: next-daric.vc
+  NEXT_RELEASE_DOMAIN: next.daric.vc
 
 jobs:
   lint:
