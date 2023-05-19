@@ -19,7 +19,6 @@ RUN npm cache clean --force
 ADD . .
 
 
-
 # Build project
 RUN npm run build
 

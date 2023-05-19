@@ -1,6 +1,6 @@
 apiVersion: v2
 appVersion: 0.0.1
-name: daric.vc
+name: briofy-daric
 version: 0.0.1
 description: A helm chart for daric.vc project
 home: https://github.com/bulutly/daric.vc

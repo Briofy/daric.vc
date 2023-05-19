@@ -4,7 +4,7 @@ metadata:
   name: {{ .Values.name }}
   labels:
     app: {{ .Values.name }}
-    group: web
+    group: briofy
 spec:
   selector:
     matchLabels:

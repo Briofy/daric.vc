@@ -11,10 +11,10 @@ domainName: "daric.vc"
 tls:
   enabled: false
   clusterIssuer: cf-letsencrypt
-  secretName: daric-vc-wildcard-tls
+  secretName: briofy-daric-wildcard-tls
 
 image:
-  repository: "briofy.{{ .Values.name }}-web"
+  repository: "briofy.{{ .Values.name }}-docs"
   pullPolicy: Always
   tag: latest
 
