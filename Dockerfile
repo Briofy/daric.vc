@@ -26,9 +26,6 @@ FROM nginx:stable-alpine AS deploy
 
 WORKDIR /usr/src/app
 
-# Copy build directory
-COPY --from=build /usr/src/app/out /usr/share/nginx/html
-
 # copy nginx confiuration file
 COPY .ci/nginx.conf /etc/nginx/conf.d/default.conf
 
