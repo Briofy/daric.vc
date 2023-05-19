@@ -3,7 +3,7 @@ appVersion: 0.0.1
 name: briofy-daric
 version: 0.0.1
 description: A helm chart for daric.vc project
-home: https://github.com/bulutly/daric.vc
+home: https://github.com/briofy/daric.vc
 maintainers:
 - name: DevOps
   url: https://github.com/
