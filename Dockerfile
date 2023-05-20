@@ -1,4 +1,4 @@
-FROM node:19.9.0-alpine AS build
+FROM node:19.9.0-alpine3.17 AS build
 
 # For handling Kernel signals properly
 RUN apk add --no-cache git
@@ -18,19 +18,12 @@ RUN npm cache clean --force
 # Add src project
 ADD . .
 
-# Build dist
+
+# Build project
 RUN npm run build
-
-# nginx production environment
-FROM nginx:stable-alpine AS deploy
-
-WORKDIR /usr/src/app
-
-# copy nginx confiuration file
-COPY .ci/nginx.conf /etc/nginx/conf.d/default.conf
 
 # expose port 80
 EXPOSE 3000
 
 # Run nginx
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["node", ".output/server/index.mjs"]
