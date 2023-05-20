@@ -1,0 +1,22 @@
+name: "sample"
+replicaCount: 1
+
+ingressController: nginx
+
+service:
+  type: ClusterIP
+
+domainName: "daric.vc"
+
+tls:
+  enabled: false
+  clusterIssuer: cf-letsencrypt
+  secretName: briofy-daric-wildcard-tls
+
+image:
+  repository: "briofy.{{ .Values.name }}-docs"
+  pullPolicy: Always
+  tag: latest
+
+resources: {}
+tolerations: {}

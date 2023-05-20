@@ -1,0 +1,12 @@
+apiVersion: v2
+appVersion: 0.0.1
+name: briofy-daric
+version: 0.0.1
+description: A helm chart for daric.vc project
+home: https://github.com/briofy/daric.vc
+maintainers:
+- name: DevOps
+  url: https://github.com/
+sources:
+- https://github.com/briofy/daric.vc
+type: application
